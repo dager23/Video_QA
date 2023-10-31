@@ -6,6 +6,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import re
 import nltk 
 from nltk.corpus import stopwords 
+nltk.download('stopwords')
 from nltk.tokenize import word_tokenize, sent_tokenize 
 import google.generativeai as palm
 import googletrans
