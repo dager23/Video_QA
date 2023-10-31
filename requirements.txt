@@ -1,6 +1,6 @@
 nltk==3.8.1
 pytube==15.0.0
-google.interactiveai==0.3.3
+google-generativeai== 0.2.2
 deep_translator==1.11.4
 youtube_transcript_api==0.6.1
 googletrans==3.0.0
