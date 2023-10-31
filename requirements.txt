@@ -1,0 +1,6 @@
+!pip install nltk
+!pip install pytube
+!pip install google.interactiveai
+!pip install deep_translator
+!pip install youtube_transcript_api
+!pip install googletrans
