@@ -1,6 +1,6 @@
-!pip install nltk
-!pip install pytube
-!pip install google.interactiveai
-!pip install deep_translator
-!pip install youtube_transcript_api
-!pip install googletrans
+nltk==3.8.1
+pytube==15.0.0
+google.interactiveai==0.3.3
+deep_translator==1.11.4
+youtube_transcript_api==0.6.1
+googletrans==3.0.0
