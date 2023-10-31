@@ -7,6 +7,7 @@ import re
 import nltk 
 from nltk.corpus import stopwords 
 nltk.download('stopwords')
+nltk.download('punkt')
 from nltk.tokenize import word_tokenize, sent_tokenize 
 import google.generativeai as palm
 import googletrans
